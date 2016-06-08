@@ -8,7 +8,8 @@ Assignments
 ## Form
 >1 Punkt für Abgabe via Github. Hausübung ist auf Github hochgeladen und ein Link zum Repository
 verschickt. Bitte bei jedem Punkt, wo Text zu schreiben, maximal fünf Zeilen schreiben.
-Data	Engineering
+
+# Data	Engineering
 
 ## Assignment	1: Big	Data in	Ihrem	Umfeld (4 Punkte)
 ### 1.1	(2	Punkte)
@@ -117,4 +118,4 @@ Beispiel: Werttervorhersage
 
 Beispiel: Spotify, 'Mix der Woche' klassifiziert Songs als 'interessant für User X'
 
-**dimensional reduction**: Vorbereitung / Aufarbeitung von Daten. Speziell im Zusammenhang der classification verwendet. 
+**dimensional reduction**: Vorbereitung / Aufarbeitung von Daten. Speziell im Zusammenhang der classification verwendet.
